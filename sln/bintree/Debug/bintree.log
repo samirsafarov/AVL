@@ -1,0 +1,12 @@
+﻿Построение начато 25.03.2016 17:28:24.
+     1>Проект "C:\Users\Александр\Desktop\Программ\AVL\sln\bintree\bintree.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\bintree.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       FinalizeBuildStatus:
+         Файл "Debug\bintree.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\bintree.lastbuildstate".
+     1>Построение проекта "C:\Users\Александр\Desktop\Программ\AVL\sln\bintree\bintree.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.02

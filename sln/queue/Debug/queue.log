@@ -1,0 +1,12 @@
+﻿Построение начато 25.03.2016 13:41:14.
+     1>Проект "C:\Users\Александр\Desktop\Программ\AVL\sln\queue\queue.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\queue.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       FinalizeBuildStatus:
+         Файл "Debug\queue.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\queue.lastbuildstate".
+     1>Построение проекта "C:\Users\Александр\Desktop\Программ\AVL\sln\queue\queue.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.02

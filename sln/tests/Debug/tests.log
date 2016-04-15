@@ -1,0 +1,20 @@
+﻿Построение начато 25.03.2016 17:19:10.
+     1>Проект "C:\Users\Александр\Desktop\Программ\AVL\sln\tests\tests.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\tests.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I..\..\gtest /I..\..\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _VARIADIC_MAX=10 /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\test\test_bintree.cpp
+         test_bintree.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Александр\Desktop\Программ\AVL\sln\Debug\tests.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Александр\Desktop\Программ\AVL\sln\Debug\tests.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Александр\Desktop\Программ\AVL\sln\Debug\tests.lib" /MACHINE:X86 Debug\test_bintree.obj
+         Debug\test_main.obj
+         "C:\Users\Александр\Desktop\Программ\AVL\sln\gtest\Debug\gtest-all.obj"
+         tests.vcxproj -> C:\Users\Александр\Desktop\Программ\AVL\sln\Debug\tests.exe
+       FinalizeBuildStatus:
+         Файл "Debug\tests.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\tests.lastbuildstate".
+     1>Построение проекта "C:\Users\Александр\Desktop\Программ\AVL\sln\tests\tests.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.28
